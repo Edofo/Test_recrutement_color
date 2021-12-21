@@ -20,7 +20,7 @@ Remarque : il n'est pas demandé de gérer le login de l'utilisateur.
 
 ### Technos :
 
-- Front :  React ou Angular ou Vue ou NextJS
+- Front :  React ou Angular ou Vue ou NextJS ou autres framework
 - Back : NodeJS/Express
 - Il est permis d'utiliser d'autres modules en supplément.
 
