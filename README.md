@@ -1,4 +1,4 @@
-## Test de recrutement Arhia
+## Test de recrutement Color Telecom
 
 Objectif de l'exercice : Réaliser une todo app basique.
 Remarque : il n'est pas demandé de gérer le login de l'utilisateur.
