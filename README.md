@@ -9,7 +9,7 @@ Remarque : il n'est pas demandé de gérer l'authentification de l'utilisateur.
 
   -  1 - Pouvoir chosir son fuseau horaire parmis une liste (Paris, Londres, Sao Paulo, ...)
   -  2 - Pouvoir selectionner les jours d'ouverture
-  -  3 - Pouvoir selectionner ses horaires via un multi thumb slider
+  -  3 - Pouvoir selectionner ses horaires via un multi thumb slider avec les input
   -  4 - Pouvoir ajouter un crénaux
   -  5 - Pouvoir supprimer un crénaux
   -  6 - Pouvoir enregistrer le tout dans la db avec l'api créer par vous
