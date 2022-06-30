@@ -7,7 +7,7 @@ Remarque : il n'est pas demandé de gérer l'authentification de l'utilisateur.
 
 Lien de la maquette : https://xd.adobe.com/view/851e1967-a570-4f12-a2a5-ed8412c8d32c-d04d/
 
-![Résultat Final](https://github.com/Edofo/Test_recrutement_color/edit/main/Color telecom - Back office de standard en ligne test page Horaire  ouverture.png)
+![Résultat Final](https://github.com/Edofo/Test_recrutement_color/blob/main/Color%20telecom%20-%20Back%20office%20de%20standard%20en%20ligne%20test%20page%20Horaire%20%20ouverture.png)
 
 
 ### Specs :
