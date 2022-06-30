@@ -1,38 +1,39 @@
 ## Test de recrutement Color Telecom
 
-Objectif de l'exercice : Réaliser une todo app basique.
-Remarque : il n'est pas demandé de gérer le login de l'utilisateur.
+Objectif de l'exercice : Réaliser une page horaire pour un back office et full responsive.
+Remarque : il n'est pas demandé de gérer l'authentification de l'utilisateur.
 
 ### Specs :
 
 #### Front-end
 
-  -  1 - Pouvoir ajouter une tâche
-  -  2 - Pouvoir indiquer qu'une tâche est faite (avec une checkbox) ou à faire
-  -  3 - Pouvoir supprimer une tâche.
-  -  4 - Pouvoir afficher la liste des tâches. Les tâches sont triées par : non effectuées en 1er, puis date de réalisation décroissante
-  -  5 - Pouvoir filtrer la liste des tâches pour afficher les tâches effectuées.
+  -  1 - Pouvoir chosir son fuseau horaire parmis une liste (Paris, Londres, Sao Paulo, ...)
+  -  2 - Pouvoir selectionner les jours d'ouverture
+  -  3 - Pouvoir selectionner ses horaires via un multi thumb slider
+  -  4 - Pouvoir ajouter un crénaux
+  -  5 - Pouvoir supprimer un crénaux
+  -  6 - Pouvoir enregistrer le tout dans la db avec l'api créer par vous
 
 ### Back-end
 
-- 1 - Des routes permettent de créer, supprimer, modifier, lister les tâches
-- 2 - Il n'y a pas de base de données, les données sont uniquement gérées dans un tableau côté serveur.
+- 1 - Créer une base de données
+- 2 - Des routes permettant de créer, supprimer des crénaux
+- 3 - Des routes permettant de modifier les horaires d'un crénaux
 
 ### Technos :
 
-- Front :  React ou Angular ou Vue ou NextJS ou autres framework
-- Back : NodeJS/Express
-- Il est permis d'utiliser d'autres modules en supplément.
+- Front :  React
+- Back : Express ou NestJS
+- Il est permis d'utiliser des modules externes.
 
 ### Rendu :
 
-- Le design et les couleurs sont libres.
 - Sur un repos Github
 - README.md (les choses nécessaires à une reprise de projet, setup dépendance etc...)
 
 ### Bonus
 
-- Système de description lorsque l'on clique sur une tâche
-- Système de login
+- Système d'authentification
+- Autres
 
 ### BONNE CHANCE A VOUS :)
